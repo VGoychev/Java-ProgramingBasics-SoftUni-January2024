@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cede484a-353b-43a3-b35a-73b96d2bfe76" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java-ProgramingBasics-SoftUni-January2024.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P01_DayOfWeek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P02_WeekendOrWorkingDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P03_AnimalType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P04_PersonalTitles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P05_SmallShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P06_NumberInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P07_WorkingHours.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P08_CinemaTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P09_FruitOrVegetable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P10_InvalidNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P11_FruitShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvanced/P12_TradeCommissions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P01_Cinema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P02_SummerOutfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P03_NewHouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P04_FishingBoat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P05_Journey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P06_OperationsBetweenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P07_HotelRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P08_OnTimeForTheExam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsAdvancedExercise/P09_SkiTrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P01_SumSeconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P02_BonusScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P03_TimePlus15Minutes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P04_ToyShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P05_GodzillaVsKong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P06_WorldSwimmingRecord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P07_Shopping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConditionalStatementsExercise/P08_LunchBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exam/P02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/P01_FoodMarket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/P02_FamilyVacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/P03_MovieDestination.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/P04_PetFood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPreparation/P05_EasterEggBattle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P01_Numbers1To100.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P02_NumbersN1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P03_Numbers1NwithStep3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P04_EvenPowersOf2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P05_CharacterSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P06_VowelsSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P07_SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P08_NumberSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P09_LeftAndRightSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoop/P10_OddEvenSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P01_NumbersEndingIn7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P02_HalfSumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P03_Histogram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P04_CleverLily.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P05_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P06_Oscars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P07_TrekkingMania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ForLoopExercise/P08_TennisRankList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P01_Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P02_MultiplicationTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P03_Combinations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P04_SumOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P05_Travelling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoops/P06_Building.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P01_NumberPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P02_EqualSumsEvenOddPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P03_SumPrimeNonPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P04_TrainTheTrainers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P05_SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/NestedLoopsExercise/P06_CinemaTickets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P01_ReadText.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P02_Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P03_SumNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P04_Sequence2kPlus1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P05_AccountBalance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P06_MaxNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P07_MinNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoop/P08_Graduation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P01_OldBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P02_ExamPreparation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P03_Vacation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P04_Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P05_Coins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P06_Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhileLoopExercise/P07_Moving.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gkJGouwotwROkgkIAYIGweK4oy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cede484a-353b-43a3-b35a-73b96d2bfe76" name="Changes" comment="" />
+      <created>1716235550061</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716235550061</updated>
+    </task>
+    <servers />
+  </component>
+</project>
